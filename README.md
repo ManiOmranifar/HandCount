@@ -219,25 +219,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenCV Community**: For the comprehensive computer vision library
 - **Contributors**: Thanks to all contributors who help improve this project
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/hand-gesture-recognition/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/hand-gesture-recognition/discussions)
-- **Email**: your.email@example.com
-
-## 🔮 Future Enhancements
-
-- [ ] Support for more complex gestures
-- [ ] Machine learning model integration
-- [ ] Mobile application development
-- [ ] Gesture-based application control
-- [ ] Multi-language support
-- [ ] Voice feedback integration
-- [ ] Gesture recording and playback
-- [ ] Custom gesture training interface
-
 ---
 
 **Made with ❤️ for the computer vision community**
