@@ -209,10 +209,6 @@ We welcome contributions to improve this project! Here's how you can help:
 - Test your changes thoroughly
 - Update documentation as needed
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **MediaPipe Team**: For providing the excellent hand tracking framework
